@@ -1,0 +1,1 @@
+var Mod=function(){function n(){return console.log("init"),!1}return{init:n}}();
